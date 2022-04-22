@@ -1,6 +1,6 @@
 ---
 title: "Learning-Resources"
-author: "ManBuXiaoCu"
+author: "ManBuXiaoCun"
 date: '2022-04-22'
 output: html_document
 ---
