@@ -11,20 +11,20 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Biomedical Data Science
 
+[Rafael A Irizarry](https://leanpub.com/u/rafalab)\
+[Michael I Love](https://leanpub.com/u/mikelove1)\
+
 <https://genomicsclass.github.io/book/>\
 
 R Graphics Cookbook, 2nd edition （ggplot2，Highly recommended）
 
 <https://r-graphics.org/>\
 
-
 Reproducible Medical Research with R
 
-<https://bookdown.org/pdr_higgins/rmrwr/> \
+<https://bookdown.org/pdr_higgins/rmrwr/>\
 
-
-用R学习统计学（推荐） 
-<https://learningstatisticswithr.com/>\
+用R学习统计学（推荐） <https://learningstatisticswithr.com/>\
 
 R for Graduate Students
 
