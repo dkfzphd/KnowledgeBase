@@ -36,3 +36,7 @@ R for Graduate Students
 R-intro-Cambridge-SysBio
 
 <https://tavareshugo.github.io/R-intro-Cambridge-SysBio/>\
+
+Nature collections - Statistics for Biologists
+
+<https://www.nature.com/collections/qghhqm>\
