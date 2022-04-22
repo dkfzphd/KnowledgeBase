@@ -11,6 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Biomedical Data Science
 
+[![Bookcover](https://d2sofvawe08yqg.cloudfront.net/dataanalysisforthelifesciences/s_hero2x?1620484418){width="200"}](https://leanpub.com/dataanalysisforthelifesciences/)
+
 [Rafael A Irizarry](https://leanpub.com/u/rafalab)\
 [Michael I Love](https://leanpub.com/u/mikelove1)\
 
@@ -19,6 +21,7 @@ Biomedical Data Science
 R Graphics Cookbook, 2nd edition （ggplot2，Highly recommended）
 
 <https://r-graphics.org/>\
+[![R Graphics Cookbook Cover](https://r-graphics.org/cover.jpg){width="200"}](https://r-graphics.org/)
 
 Reproducible Medical Research with R
 
