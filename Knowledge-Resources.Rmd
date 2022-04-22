@@ -40,3 +40,6 @@ R-intro-Cambridge-SysBio
 Nature collections - Statistics for Biologists
 
 <https://www.nature.com/collections/qghhqm>\
+
+Multilingual Quantitative Biologist!
+<https://mhasoba.github.io/TheMulQuaBio/intro.html>\
